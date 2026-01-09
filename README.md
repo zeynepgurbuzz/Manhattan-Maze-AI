@@ -47,10 +47,7 @@ game.exe
 
 ## 🧠 Algorithm: Manhattan Distance
 
-In Hard Mode, the police calculate the distance to the thief using the formula:
-
-
-
+In Hard Mode, the police calculate the distance to the thief using the formula:|x2 - x1| + |y2 - y1|
 It then chooses the move that minimizes this distance to trap the player.
 
 ## 📝 License
