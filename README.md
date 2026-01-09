@@ -19,3 +19,40 @@ You need a C compiler (GCC) installed on your system.
 Open your terminal/command prompt and run:
 ```bash
 gcc game.c -o game
+
+```
+
+### Execution
+
+**On macOS / Linux:**
+
+```bash
+./game
+
+```
+
+**On Windows:**
+
+```bash
+game.exe
+
+```
+
+## 🕹️ Controls
+
+* `W`: Move Up
+* `A`: Move Left
+* `S`: Move Down
+* `D`: Move Right
+
+## 🧠 Algorithm: Manhattan Distance
+
+In Hard Mode, the police calculate the distance to the thief using the formula:
+
+
+
+It then chooses the move that minimizes this distance to trap the player.
+
+## 📝 License
+
+This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
